@@ -1,0 +1,15 @@
+type: repo
+repo: aimvgg/claude-video-editing-skills
+name: Claude video editing skills
+what: skill
+summary: "Six agent skills: find clips and quotes, restyle a reference video, V2V swap, clean up AI video, check the render, write a recipe."
+works_with_models: [claude-opus-5-5, wan-3-0]
+uses_tools: [arcmira, yt-dlp, ffmpeg, demucs, openrouter]
+kind: [hype-edit, shot-for-shot-remake, music-video]
+demo_video: https://x.com/zealcaiden/status/2112239444040499475
+maintainer_x: zealcaiden
+notify_maintainer: false
+license: Apache-2.0
+stars_at_listing: 0
+added: 2026-10-20
+status: listed
